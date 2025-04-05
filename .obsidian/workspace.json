@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "39bc8deab8806236",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ba036ed417601e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d68516c20dfe482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0404b58f75f12504",
+    "type": "split",
+    "children": [
+      {
+        "id": "e592c718279f75c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62220203253eeb46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "581efa9295871e24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfcdefbc19f24707",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8919b7c22398693",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68918c82369c8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d7c5167767d6458",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/assets/images/favicon.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for favicon"
+            }
+          },
+          {
+            "id": "ff94ed9bdf51c0a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/assets/images/favicon.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from favicon"
+            }
+          },
+          {
+            "id": "5e57903c53b92630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1da9af352a9dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/assets/images/favicon.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of favicon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62220203253eeb46",
+  "lastOpenFiles": [
+    "BlueTeam.md",
+    "docs/index.md",
+    "BlueTeam.md.md",
+    "docs/1.Preparation/1.01-Troop_Leading_Procedures/README.md",
+    "Untitled 1.canvas",
+    "2025-04-05.md",
+    "Untitled.canvas",
+    "src/assets/images/favicon.png"
+  ]
+}
